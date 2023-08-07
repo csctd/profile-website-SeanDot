@@ -70,6 +70,7 @@ html_static_path = ['_static']
 # html_extra_path = ["feed.xml"]
 # map pages to which sidebar they should have 
 #  "page_file_name": ["list.html", "of.html", "sidebar.html", "files.html"]
+
 html_sidebars = {
     "index": ["hello.html"],
     "about": ["hello.html"],
