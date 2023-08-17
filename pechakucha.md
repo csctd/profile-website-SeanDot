@@ -1,7 +1,9 @@
 # PechaKucha
 
+<div id= "slideshow">
 
-```{include} _static/play_pause.html
+
+```{include} _static/buttons.html
 ```
 
 ```{card}
@@ -135,3 +137,5 @@
 
 ![seitan](_static/img/the-best-vegan-chickn-shredded-tender-seitan-thumb-1400x1400.jpg)
 ```
+
+</div>
