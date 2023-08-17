@@ -8,7 +8,7 @@ Exempleray employee offerring work etiqutte, grreat customer service and social 
 - Problem resolution 
 - Trouble shooting 
 
-#VOLUNTARY WORK 09/2020 to 11/2021
+# VOLUNTARY WORK From 09/2020 To 11/2021
 
 - Sorted and distributed food to disadvantaged families, including canned goods and tresh produce. Assisted with facilities maintenance needs, including basic cleaning and trash removal.
 
@@ -17,7 +17,7 @@ More content you want on your page
 
 Helper - Cranston, RI
 
-#YOUTH PROGEAM WORKER | 05/2020 to 08/2021
+# YOUTH PROGEAM WORKER | From 05/2020 To 08/2021
 
 Rhode bland Youth Program - Cranston, RI 
 
