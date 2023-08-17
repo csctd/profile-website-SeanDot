@@ -117,7 +117,7 @@
 ```{card}
 :class-card: slide
 
-![holding_back_nyell](_static/img/_static/img/67DAED37-6456-4FE0-A9B9-3848106B0AC6IMG_5459.jpg
+![holding_back_nyell](_static/img/_static/img/67DAED37-6456-4FE0-A9B9-3848106B0AC6IMG_5459.jpg)
 ```
 
 ```{card}
@@ -126,11 +126,6 @@
 ![chicken](_static/img/download.jpg)
 ```
 
-```{card}
-:class-card: slide
-
-![chicken](_static/img/download.jpg)
-```
 
 ```{card}
 :class-card: slide
