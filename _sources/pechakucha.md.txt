@@ -4,6 +4,11 @@
 ```{include} _static/play_pause.html
 ```
 
+```{card}
+:class-card: slide
+
+![djibrils_mic](_static/img/IMG_5140.jpg)
+```
 
 ```{card}
 :class-card: slide
