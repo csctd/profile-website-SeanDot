@@ -8,6 +8,12 @@
 ```{card}
 :class-card: slide
 
+![skunk](_static/img/IMG_5149.jpg)
+```
+
+```{card}
+:class-card: slide
+
 ![chicken](_static/img/download.jpg)
 ```
 
