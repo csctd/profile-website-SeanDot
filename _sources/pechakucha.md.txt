@@ -14,11 +14,6 @@
 ```{card}
 :class-card: slide
 
-![pulled_over](_static/img/IMG_4913.jpg)
-```
-```{card}
-:class-card: slide
-
 ![sky_and_kenny](_static/img/IMG_4904.jpg)
 ```
 
@@ -132,5 +127,9 @@
 
 ![seitan](_static/img/the-best-vegan-chickn-shredded-tender-seitan-thumb-1400x1400.jpg)
 ```
+```{card}
+:class-card: slide
 
+![bodega](_static/img/Quisqueya-Bodega-Crown-Heights-Brooklyn-NYC.jpg)
+```
 </div>
