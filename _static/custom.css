@@ -106,7 +106,7 @@ div.timeline div.left {
 div.timeline div.entry::after {
     width: 1em;
     height: 1em;
-    background:rgb(219, 12, 12);
+    background:rgb(255, 255, 255);
     border-radius: 50%;
     content: "";
     top: 1em;
